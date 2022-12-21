@@ -9,5 +9,11 @@ public class Main {
       Fxron.color="green";
       Fxron.size="4382742km";
       Fxron.temp="1324564676543km";
+
+      Planet1 stuart=new Planet1();
+      stuart.color="white";
+      stuart.size=23423;
+      stuart.rings="5";
+      stuart.temperature="4884848k";
     }
 }
